@@ -214,6 +214,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.24.1"
+  sentry:
+    dependency: "direct main"
+    description:
+      name: sentry
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -296,6 +303,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
+  usage:
+    dependency: transitive
+    description:
+      name: usage
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.4.2"
   uuid:
     dependency: transitive
     description:
